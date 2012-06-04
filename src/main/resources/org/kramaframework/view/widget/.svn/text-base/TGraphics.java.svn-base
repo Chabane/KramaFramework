@@ -1,0 +1,107 @@
+package org.kramaframework.tag.widget;
+
+import java.util.Vector;
+
+/**
+ * 
+ * @author chabane
+ * @version 1.0
+ */
+public class TGraphics {
+
+	private String javascript;
+	private String drawRaphael;
+	private String drawingRaphael;
+	private Vector elements;
+	
+	private TGraphics(){}
+	/**
+	 * 
+	 * @param idRaphael
+	 * @param width
+	 * @param height
+	 */
+	public TGraphics(String idRaphael, String width, String height){
+		
+		drawRaphael = "draw_"+idRaphael;
+		drawingRaphael = "drawing_"+idRaphael;
+		javascript  = "window.onload = function () {";
+		javascript += "var "+drawRaphael+" = Raphael(\""+idRaphael+"\", "+width+", "+height+");\n";
+		javascript += "var "+drawingRaphael+" = draw_"+idRaphael+".set(\n";
+		elements = new Vector();
+	}
+	
+	/**
+	 * 
+	 * @param text
+	 * @param x
+	 * @param y
+	 */
+	public void drawString(String text, int x, int y){
+		elements.add(drawRaphael+".text("+x+","+y+",\""+text+"\")");
+	}
+	
+	/**
+	 * 
+	 * @param x1
+	 * @param y1
+	 * @param x2
+	 * @param y2
+	 * @param strokeWidth
+	 * @param strokeLinecap
+	 * @param color
+	 */
+	public void drawLine(int x1, int y1, int x2, int y2, String strokeWidth, String strokeLinecap, String color){
+		elements.add(drawRaphael+".path(M"+x1+" "+y1+"L"+x2+" "+y2+")" +
+								 ".attr({\"stroke-width\":\""+strokeWidth+"\", " +
+								 		"\"stroke-linecap:\""+strokeLinecap+"\", " +
+								 		  "stroke:\""+color+"\"})");  
+	}	 	
+	
+	/**
+	 * 
+	 * @param x
+	 * @param y
+	 * @param width
+	 * @param height
+	 * @param radius
+	 * @param fill
+	 * @param color
+	 */
+	public void drawRect(int x, int y, int width, int height, int radius, String fill, String color){
+		elements.add(drawRaphael+".rect("+x+","+y+","+width+","+height+","+radius+")"+
+				                 ".attr({fill: \""+fill+"\", stroke: \""+color+"\"})");
+	}
+	
+	/**
+	 * 
+	 * @param x
+	 * @param y
+	 * @param radius
+	 * @param fill
+	 * @param color
+	 */
+	public void drawCircle(int x, int y, int radius, String fill, String color){
+		elements.add(drawRaphael+".circle("+x+","+y+","+radius+")"+
+                				 ".attr({fill: \""+fill+"\", stroke: \""+color+"\"})");
+	}
+	
+	/**
+	 * 
+	 * @return
+	 */
+	public String getJavascript() {
+		if(elements.size() > 0){
+			for(int i = 0; i < elements.size(); i++){
+			javascript += elements.elementAt(i);
+			if(i != elements.size() - 1)
+			   javascript +=", \n";
+			}
+			javascript += "\n);\n";
+			javascript += "}\n";
+			return javascript;
+		}else{
+			return null;
+		}
+	}
+}

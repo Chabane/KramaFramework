@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taglib
+  PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"
+   "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd">
+
+    <!-- a tab library descriptor -->
+<taglib xmlns="http://java.sun.com/JSP/TagLibraryDescriptor">
+	
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>1.2</jsp-version>
+	<short-name>Krama</short-name>
+	
+	<tag>
+		<name>view</name>
+		<tag-class>org.kramaframework.view.TViewTag</tag-class>
+		<body-content>JSP</body-content>
+		<attribute>
+			<name>viewbean</name>
+		</attribute>
+		<attribute>
+			<name>object</name>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>type</name>
+		</attribute>
+	</tag>
+	
+	<tag>
+		<name>css</name>
+		<tag-class>org.kramaframework.view.TCssTag</tag-class>
+		<body-content>JSP</body-content>
+	</tag>
+	
+	<tag>
+		<name>js</name>
+		<tag-class>org.kramaframework.view.TJsTag</tag-class>
+		<body-content>JSP</body-content>
+	</tag>
+</taglib>

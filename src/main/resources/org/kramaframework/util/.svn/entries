@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://krama-framework.googlecode.com/svn"
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/util"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="TColor.java"
+   checksum="32de03f6c1a6913e6dcdf3cad23f04de"
+   last-author="chabane.refes"
+   text-time="2012-04-15T17:14:19.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="TJsFunction.java"
+   revision="45"
+   checksum="a96128d4501c68868cb91998f7cf8bd1"
+   last-author="chabane.refes"
+   text-time="2012-04-15T18:45:49.000000Z"
+   committed-rev="45"
+   kind="file"
+   committed-date="2012-04-15T18:47:07.713000Z"/>
+<entry
+   name="TUtil.java"
+   checksum="c01536eb92c983972709fd3c21ab2d78"
+   last-author="chabane.refes"
+   text-time="2012-04-15T17:16:09.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="web-kramaframework_1_0.dtd"
+   checksum="f988e197e2468b13e4c88405feabcb26"
+   last-author="chabane.refes"
+   text-time="2012-04-12T15:35:19.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+</wc-entries>

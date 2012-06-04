@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://krama-framework.googlecode.com/svn"
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="widget"
+   kind="dir"/>
+</wc-entries>

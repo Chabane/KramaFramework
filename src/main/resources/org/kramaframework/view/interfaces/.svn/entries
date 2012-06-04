@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://krama-framework.googlecode.com/svn"
+   name=""
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/view/interfaces"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="IAjax.java"
+   checksum="7cd3b5c8e0aa21d1810751d03c3f856b"
+   last-author="chabane.refes"
+   text-time="2012-04-15T17:13:17.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="ILib.java"
+   checksum="4c7a98a6f840143ad9e99575b758a0e6"
+   last-author="chabane.refes"
+   text-time="2012-04-15T17:13:36.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+</wc-entries>

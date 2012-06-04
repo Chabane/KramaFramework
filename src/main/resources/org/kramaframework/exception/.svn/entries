@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://krama-framework.googlecode.com/svn"
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/exception"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaConfigurationBuildFailedException.java"
+   checksum="5f0bdd55b6b5a3feeb054109c2843dd7"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:19:58.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaConfigurationFileNotFoundException.java"
+   checksum="b9892dfae2ed10eb6f6299bf94e316e9"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:19:52.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaConfigurationIsNotDefinedException.java"
+   checksum="45ffa3e4ba80e189ff05dc35286d9345"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:19:39.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaEventUnknownEventException.java"
+   checksum="ce610ef3c4a5df408ebfdfee7846f9b9"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:19:33.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaIllegalAddTagException.java"
+   checksum="c8b9fe118de71246215503f636e6d07b"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:23:08.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaReflectionIllegalArgumentException.java"
+   checksum="8adc9853753b4845ac5089349563bce5"
+   last-author="chabane.refes"
+   text-time="2012-04-15T11:57:10.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaReflectionIllegalClassException.java"
+   checksum="a99b9b20374cab6711ca9f36fe3695a3"
+   last-author="chabane.refes"
+   text-time="2012-04-15T11:59:26.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaReflectionIllegalMethodSignatureException.java"
+   checksum="0308694f86763eb743d5eb7e69b9ded4"
+   last-author="chabane.refes"
+   text-time="2012-04-15T11:59:35.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaUnknowJavascriptDependancyException.java"
+   checksum="f50347e0b540f17e148f3e2f0ff3f428"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:44:14.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaUnknownWidgetKindException.java"
+   checksum="874da0d0f30502078219f6c711583abb"
+   last-author="chabane.refes"
+   text-time="2012-04-14T14:46:29.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="KramaViewClassNotFoundException.java"
+   checksum="fcfae6f8afe0153f31f01781abd98fb0"
+   last-author="chabane.refes"
+   text-time="2012-04-15T11:59:41.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+</wc-entries>

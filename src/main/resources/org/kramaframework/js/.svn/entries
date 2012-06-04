@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://krama-framework.googlecode.com/svn"
+   name=""
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/js"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="Function.java"
+   checksum="be557ea7883a8b3c294b49c3377fbf29"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T12:13:12.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="GenerateJS.java"
+   revision="44"
+   checksum="94726f2ab4ddc3c1ef9b994d1ff7105b"
+   last-author="chabane.refes"
+   committed-rev="44"
+   text-time="2012-04-15T18:03:42.000000Z"
+   kind="file"
+   committed-date="2012-04-15T18:46:43.848000Z"/>
+<entry
+   name="JsDependencies.java"
+   checksum="b676ccd698dfffc11457448460fc8fc5"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T12:40:17.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="JsDpendency.java"
+   checksum="a65d43494841c23298eff1a8a1495712"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T12:39:40.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="JsWidget.java"
+   revision="44"
+   checksum="5186bbf86d581e79dec0805497bdfb24"
+   last-author="chabane.refes"
+   committed-rev="44"
+   text-time="2012-04-15T18:41:21.000000Z"
+   kind="file"
+   committed-date="2012-04-15T18:46:43.848000Z"/>
+</wc-entries>

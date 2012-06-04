@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://krama-framework.googlecode.com/svn"
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/demo"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="Dessiner.java"
+   revision="53"
+   checksum="d55e8f2aa374f77f7dfe78a511b64fed"
+   last-author="chabane.refes"
+   text-time="2012-04-29T14:37:19.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2012-04-29T16:18:27.768000Z"/>
+<entry
+   name="Operation.java"
+   checksum="e280c1fe8a2dcf198bfb39048edacb90"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T17:18:13.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="TestAction.java"
+   checksum="0505deff0900b6b090fb8e6db022a598"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T17:28:20.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="View.java"
+   revision="52"
+   checksum="10e409e686775f8bbd2064625b605e08"
+   last-author="chabane.refes"
+   committed-rev="52"
+   text-time="2012-04-28T20:52:11.000000Z"
+   kind="file"
+   committed-date="2012-04-29T16:18:11.718000Z"/>
+<entry
+   name="ViewAjax.java"
+   checksum="f724b5c56c11a6a52eec34a0da85e439"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T17:28:03.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+</wc-entries>

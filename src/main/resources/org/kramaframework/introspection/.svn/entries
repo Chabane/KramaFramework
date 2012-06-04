@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://krama-framework.googlecode.com/svn"
+   name=""
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/introspection"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="TMethod.java"
+   checksum="31e290bc522fb9513242cb9d597c6f79"
+   last-author="chabane.refes"
+   text-time="2012-04-15T12:39:59.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="TReflection.java"
+   checksum="a79f6d779e2371b251a847d058edd3e1"
+   last-author="chabane.refes"
+   text-time="2012-04-15T12:13:50.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+</wc-entries>

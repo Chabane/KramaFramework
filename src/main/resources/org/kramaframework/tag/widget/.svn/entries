@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://krama-framework.googlecode.com/svn"
+   name=""
+   revision="43"
+   last-author="chabane.refes"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="Background.java"
+   schedule="delete"
+   checksum="0c2d2f7802ff81b0881f5f3c41cac9af"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T15:31:15.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="CssWidget.java"
+   schedule="delete"
+   checksum="3e0b75d47ada63787355f9bcb0f0b7a2"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T15:28:16.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="HtmlWidget.java"
+   schedule="delete"
+   checksum="7114566f41529e6f36c66417d097acf6"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T15:28:02.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="TGraphics.java"
+   revision="56"
+   schedule="delete"
+   checksum="e2997fa3e78847093fab99106d73760c"
+   last-author="chabane.refes"
+   text-time="2012-04-28T20:48:20.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-04-29T16:20:00.281000Z"/>
+<entry
+   name="TImage.java"
+   revision="56"
+   schedule="delete"
+   checksum="417f8ee8c3a4253dae63acf23dada4d6"
+   last-author="chabane.refes"
+   text-time="2012-04-28T16:31:22.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-04-29T16:20:00.281000Z"/>
+<entry
+   name="TLabel.java"
+   revision="56"
+   schedule="delete"
+   checksum="70a52c91ac122288a23293ba09df127e"
+   last-author="chabane.refes"
+   text-time="2012-04-28T16:31:23.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-04-29T16:20:00.281000Z"/>
+<entry
+   name="TLink.java"
+   revision="56"
+   schedule="delete"
+   checksum="21c48dddb1d9d11fb92d71b9f8b7f077"
+   last-author="chabane.refes"
+   text-time="2012-04-28T16:31:22.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-04-29T16:20:00.281000Z"/>
+<entry
+   name="TSimpleText.java"
+   revision="56"
+   schedule="delete"
+   checksum="44d805fd652d930f5c271b49cae25259"
+   last-author="chabane.refes"
+   text-time="2012-04-28T16:31:23.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-04-29T16:20:00.281000Z"/>
+<entry
+   name="TWidget.java"
+   revision="54"
+   schedule="delete"
+   checksum="8d72b17f3df466c06fc878c435e14c47"
+   last-author="chabane.refes"
+   committed-rev="54"
+   text-time="2012-04-28T19:23:07.000000Z"
+   kind="file"
+   committed-date="2012-04-29T16:18:52.791000Z"/>
+<entry
+   name="TagType.java"
+   schedule="delete"
+   checksum="1365ec872d98780438fe9fe40a3d5728"
+   last-author="chabane.refes"
+   committed-rev="43"
+   text-time="2012-04-15T15:31:56.000000Z"
+   kind="file"
+   committed-date="2012-04-15T17:39:06.642000Z"/>
+<entry
+   name="html"
+   schedule="delete"
+   kind="dir"/>
+</wc-entries>

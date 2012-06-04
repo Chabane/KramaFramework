@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://krama-framework.googlecode.com/svn"
+   revision="0"
+   schedule="add"
+   url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/view/widget"
+   kind="dir"/>
+<entry
+   name="Background.java"
+   revision="43"
+   schedule="add"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/Background.java"
+   copied="true"
+   copyfrom-rev="43"
+   kind="file"/>
+<entry
+   name="CssWidget.java"
+   revision="43"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/CssWidget.java"
+   kind="file"
+   copyfrom-rev="43"/>
+<entry
+   name="HtmlWidget.java"
+   revision="43"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/HtmlWidget.java"
+   kind="file"
+   copyfrom-rev="43"/>
+<entry
+   name="TGraphics.java"
+   revision="56"
+   schedule="add"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TGraphics.java"
+   copied="true"
+   copyfrom-rev="56"
+   kind="file"/>
+<entry
+   name="TImage.java"
+   revision="56"
+   schedule="add"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TImage.java"
+   copied="true"
+   copyfrom-rev="56"
+   kind="file"/>
+<entry
+   name="TLabel.java"
+   revision="56"
+   schedule="add"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TLabel.java"
+   copied="true"
+   copyfrom-rev="56"
+   kind="file"/>
+<entry
+   name="TLink.java"
+   revision="56"
+   schedule="add"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TLink.java"
+   copied="true"
+   copyfrom-rev="56"
+   kind="file"/>
+<entry
+   name="TSimpleText.java"
+   revision="56"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TSimpleText.java"
+   kind="file"
+   copyfrom-rev="56"/>
+<entry
+   name="TWidget.java"
+   revision="54"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TWidget.java"
+   kind="file"
+   copyfrom-rev="54"/>
+<entry
+   name="TagType.java"
+   revision="43"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://krama-framework.googlecode.com/svn/trunk/Krama/src/org/kramaframework/tag/widget/TagType.java"
+   kind="file"
+   copyfrom-rev="43"/>
+</wc-entries>
