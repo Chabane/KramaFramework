@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+*.log
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> cb81de1f3126adf699cfb6e03555e28d5498af30
