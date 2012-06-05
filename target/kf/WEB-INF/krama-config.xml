@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE krama-config PUBLIC
+    "-//Krama Framework//DTD Krama Framework Config 1.0//EN"
+    "http://kramaframework.org/dtd/web-kramaframework_1_0.dtd">
+    <!-- xmlns="http:///kramaframework.org/Configuration" --> 
+<krama-config>
+	<js location="js/" />
+	<css location="css/" />
+	
+	<views>
+		<view name="view" class="org.kramaframework.demo.View" />
+		<view name="viewAjax" class="org.kramaframework.demo.ViewAjax" />
+	</views> 
+
+	<ajax-call>
+		<class name="operation" class="org.kramaframework.demo.Operation">
+			<method name="valeur" method="getValeur">
+				<param type="java.lang.Integer" />
+				<param type="java.lang.Integer" />
+				<param type="java.lang.String" />
+			</method>
+		</class>
+		<!-- http://localhost:8080/krama/result.aj?cName=operation&mName=valeur&nParam=3&param1=2&param2=3&param3=somme -->
+	</ajax-call>
+
+	<js-dependencies>
+		<js-dependency>
+			<name>jQuery</name>
+			<file>jquery.js</file>
+			<version>1.7.2</version>
+		</js-dependency>
+		<js-dependency>
+			<name>Prototype</name>
+			<file>prototype.js</file>
+			<version>1.7</version>
+		</js-dependency>
+		<js-dependency>
+			<name>Dojo</name>
+			<file>dojo.js</file>
+			<version>1.7.2</version>
+		</js-dependency>
+		<js-dependency>
+			<name>Raphael</name>
+			<file>raphael-min.js</file>
+			<version>2.1.0</version>
+		</js-dependency>
+		<js-dependency>
+			<name>Processing</name>
+			<file>processing.js</file>
+			<version>1.3.6</version>
+		</js-dependency>
+		<js-dependency>
+			<name>jsPlumb</name>
+			<file>jquery.jsPlumb.js</file>
+			<version>1.3.8</version>
+		</js-dependency>
+		<js-dependency>
+			<name>Dom-Drag</name>
+			<file>dom-drag.js</file>
+			<version>1.0</version>
+		</js-dependency>
+		<js-dependency>
+			<name>Util</name>
+			<file>util.js</file>
+			<version>1.0</version>
+		</js-dependency>
+	</js-dependencies>
+</krama-config>
